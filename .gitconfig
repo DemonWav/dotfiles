@@ -1,0 +1,10 @@
+[user]
+	name = Kyle Wood
+	email = demonwav@gmail.com
+[color]
+	ui = auto
+[core]
+	autocrlf = true
+	pager = less -+FX
+[pull]
+	ff = only
